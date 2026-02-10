@@ -9,6 +9,7 @@ $ nx build nest-app
 This will run the `build` script as defined in the `package.json` of  the `nest-app` project.  
 
 __Common Commands__  
+
 Description       | Command
 ------------------|-------------------
 Run multiple apps |  `nx run-many -t serve -p app1 app2`
